@@ -2,6 +2,7 @@
 _Basic Udacity project using pandas library in Python for their bikeshare data exploration._
 
 # Project is done by Zheng Cui
+# Date: 06-11-2021
 # Project Overview:
 
 This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
